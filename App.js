@@ -6,7 +6,7 @@ import CarItem from './components/carItem';
 export default function App() {
   return (
     <View style={styles.container}>
-       <CarItem />
+       <CarItem name={"Model 3"} tagline={"Order Online for"} taglineCTA={"Touchless Delivery"} image={require('./assets/images/model-3.jpg')} />
       <StatusBar style="auto" />
     </View>
   );
