@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15e0ceae-cec6-4df5-a6d0-2160d1445652" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/carList/cars.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/carList/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/carList/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Header/styles.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/carItem/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/carItem/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/carItem/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/carItem/styles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/styledButton/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/styledButton/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/styledButton/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/styledButton/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/carList/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/carList/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/carList/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/carList/styles.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +24,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="28vvkPowNQLUQKPf1hDUkMWY5BW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../YorisAfrica" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -85,5 +89,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
