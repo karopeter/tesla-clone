@@ -4,9 +4,9 @@ import styles from './styles';
 
 const Header = (props) => {
   return(
-    <View style={styles.container}>
-      <Image style={styles.logo} source={require('../../assets/images/logo.svg')} />
-      <Image style={styles.menu} source={require('../../assets/images/menu.svg')} />
+    <View style={styles.headerContainer}>
+      <Image source={require('../../assets/images/logo.svg')} style={styles.logo} />
+      <Image source={require('../../assets/images/menu.svg')} style={styles.menu} />
     </View>
   );
 };
